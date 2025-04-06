@@ -1,7 +1,3 @@
-simplyreflections.co
-https://page.genspark.site/page/toolu_012QgMQ26vsAHu2f3PPRtubj/simplyreflections_website_professional.html
-
-html code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -313,7 +309,7 @@ html code
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <div class="circular-logo mr-2">
-                        <img src="data:image/svg+xml;base64,..." alt="Simply Reflections Logo" class="h-12">
+                        <img src="https://ibb.co.com/bgg5sq1f" alt="Simply Reflections Logo" class="h-12">
                     </div>
                     <span class="text-white font-bold text-lg">SimplyReflections.co</span>
                 </div>
