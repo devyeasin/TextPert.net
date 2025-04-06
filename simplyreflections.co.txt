@@ -311,7 +311,7 @@
                     <div class="circular-logo mr-2">
                         <img src="https://i.imghippo.com/files/cy1636RIQ.jpg" alt="Simply Reflections Logo" class="h-12">
                     </div>
-                    <span class="text-white font-bold text-lg">SimplyReflections.co</span>
+                    <span class="text-white font-bold text-lg">TextPert.net</span>
                 </div>
                 <div class="hidden md:flex items-center space-x-6">
                     <a href="#home" class="text-white hover:text-accent-green transition duration-300">Home</a>
@@ -991,9 +991,9 @@
                 <div>
                     <div class="flex items-center mb-4">
                         <div class="circular-logo mr-2 bg-black">
-                            <img src="data:image/svg+xml;base64,..." alt="Simply Reflections Logo" class="h-10">
+                            <img src="https://i.imghippo.com/files/cy1636RIQ.jpg" alt="Simply Reflections Logo" class="h-10">
                         </div>
-                        <span class="font-bold text-lg">SimplyReflections.co</span>
+                        <span class="font-bold text-lg">TextPert.net</span>
                     </div>
                     <p class="mb-4">
                         Professional window cleaning, power washing, and solar panel cleaning services in Phoenix, Arizona.
