@@ -309,7 +309,7 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <div class="circular-logo mr-2">
-                        <img src="https://ibb.co.com/bgg5sq1f" alt="Simply Reflections Logo" class="h-12">
+                        <img src="https://i.imghippo.com/files/cy1636RIQ.jpg" alt="Simply Reflections Logo" class="h-12">
                     </div>
                     <span class="text-white font-bold text-lg">SimplyReflections.co</span>
                 </div>
