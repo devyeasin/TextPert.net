@@ -1046,3 +1046,7 @@ section#home {
     background-size: cover;
     transition: all 0.5s ease;
 }
+
+.md\:w-1\/2.mt-12.md\:mt-0.relative.slide-in-right {
+    display: none;
+}
